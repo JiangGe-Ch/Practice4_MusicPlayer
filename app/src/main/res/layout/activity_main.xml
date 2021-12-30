@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/list_songs"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"/>
+
+<!--        <LinearLayout-->
+<!--            android:id="@+id/main_player"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="0dp"-->
+<!--            android:layout_weight="1">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/main_player_name"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_weight="5"-->
+<!--                android:text="测试歌名" />-->
+
+<!--            <Button-->
+<!--                android:id="@+id/main_player_play"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_weight="2"-->
+<!--                android:text="播放"/>-->
+
+<!--        </LinearLayout>-->
+    </LinearLayout>
+
+    <!--
+
+    <Button
+        android:id="@+id/main_openPlayer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="打开播放页面"/>
+
+    <Button
+        android:id="@+id/main_download_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开始下载"/>
+
+    <Button
+        android:id="@+id/main_download_pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="暂停下载"/>
+
+    <Button
+        android:id="@+id/main_download_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="取消下载"/>
+
+        -->
+
+</LinearLayout>

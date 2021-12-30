@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practice4_MusicPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/Practice4_MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Practice4_MusicPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Practice4_MusicPlayer.app.iml" />
+    </modules>
+  </component>
+</project>
